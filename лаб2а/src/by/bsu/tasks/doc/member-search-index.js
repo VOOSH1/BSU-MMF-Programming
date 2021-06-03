@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"by.bsu.tasks","c":"Main","l":"isDigitsInAscOrder(String)","u":"isDigitsInAscOrder(java.lang.String)"},{"p":"by.bsu.tasks","c":"Main","l":"Main()","u":"%3Cinit%3E()"},{"p":"by.bsu.tasks","c":"Main","l":"main(String[])","u":"main(java.lang.String[])"}];updateSearchResults();
